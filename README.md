@@ -1,1 +1,1 @@
-# StockFlow - Sistema de Gestión de Inventario y Ventas
+# stockmaster - Sistema de Gestión de Inventario y Ventas
